@@ -27,3 +27,15 @@ table tr th, table tr td {
     text-align: center;
     width: 15%;
 }
+
+.filtros{
+    background: #f3f3f3;
+    padding: 25px;
+    margin-bottom: 40px;
+}
+
+.botonera {
+    background: #f3f3f3;
+    margin-top: 25px;
+    padding: 25px;
+}
